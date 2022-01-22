@@ -13,7 +13,7 @@ Di He (贺笛) is currently a Senior Researcher in Machine Learning Group at Mic
 
 Di’s main research interests include representation learning (mainly focusing on learning the representation of structured data such as languages and graphs), trust-worthy machine learning, and deep learning optimization. The primary goal of his work is to develop efficient algorithms that can capture accurate and robust features from data through deep neural networks. To achieve this goal, Di focuses on providing a deeper understanding of different neural network architectures for different practical scenarios and their optimization processes. Di has been serving on the PCs and Senior PCs of the top machine learning and artificial intelligence conferences, such as ICML, NIPS, ICLR, AAAI, and IJCAI.
 
-Publications
+Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
 [1] Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, “[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)“, **NeurIPS 2021**
