@@ -73,3 +73,26 @@ Publications
 [27] Di He, Wei Chen, Liwei Wang, Tie-Yan Liu, “[A Game-Theoretic Machine Learning Approach for Revenue Maximization in Sponsored Search](https://arxiv.org/abs/1406.0728)”, **IJCAI 2013**
 
 [28] Yining Wang, Liwei Wang, Yuanzhi Li, Di He, Wei Chen, Tie-Yan Liu, “[A Theoretical Analysis of NDCG Type Ranking Measures](http://proceedings.mlr.press/v30/Wang13.pdf)”, **Annual Conference on Learning Theory (COLT), 2013**
+
+
+
+Past supervised undergraduates
+=====
+
+[Qizhe Xie](https://www.qizhexie.com/) (CMU)
+
+[Chengyue Gong](https://sites.google.com/view/chengyue-gong) (UT Austin)
+
+[Jun Gao](http://www.cs.toronto.edu/~jungao/) (University of Toronto)
+
+[Zhuohan Li](https://people.eecs.berkeley.edu/~zhuohan/) (UC Berkeley)
+
+[Zhiqing Sun](https://www.cs.cmu.edu/~zhiqings/) (CMU)
+
+[Yiping Lu](https://web.stanford.edu/~yplu/) (Stanford)
+
+[Linyuan Gong](https://github.com/gonglinyuan) (UC Berkeley)
+
+[Runtian Zhai](http://www.runtianzhai.com/) (CMU)
+
+[Tianle Cai](https://tianle.website/) (Princeton)
