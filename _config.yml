@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shanda Li (黎善达)"
+title                    : "Di He (贺笛)"
 title_separator          : "-"
-name                     : &name "Shanda Li"
-description              : &description " A senior student at PKU"
-url                      : https://lithiumda.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Di He"
+description              : &description "Senior Researcher at Microsoft Research Asia"
+url                      : https://dihe.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "lithiumda.github.io"
+repository               : "dihe.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Shanda Li"
-  avatar           : "profile.jpg"
-  bio              : "A senior student at PKU"
+  name             : "Di He"
+  avatar           : "dihe.jpg"
+  bio              : "Senior Researcher at Microsoft Research Asia"
   location         : "Beijing, China"
   employer         :
   pubmed           :  # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  # "http://yourfullgooglescholarurl.com"
-  email            : "lishanda@pku.edu.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate"
+  email            : "di_he@pku.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "LithiumDA"
+  github           : "DiHe-PKU"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/di-he-8a5633ab/"
   orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
