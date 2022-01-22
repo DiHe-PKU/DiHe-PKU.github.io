@@ -1,1 +1,1 @@
-[My personal website](https://dihe.github.io/)
+[My personal website](https://dihe-pku.github.io/)
