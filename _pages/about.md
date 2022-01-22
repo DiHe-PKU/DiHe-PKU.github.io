@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a final-year undergraduate at Turing class, Peking university, where I am fortunate to be advised by [Prof. Liwei Wang](http://www.liweiwang-pku.com/). I work closely with and learn a lot from [Di He](https://www.microsoft.com/en-us/research/people/dihe/) at MSRA. This summer, I worked as an intern in [Cho-Jui Hsieh](http://web.cs.ucla.edu/~chohsieh/)'s group at UCLA remotely.
+Di He (贺笛) is currently a Senior Researcher in Machine Learning Group at Microsoft Research Asia. He obtained his bachelor, master and Ph.D. degrees from Peking University, advised by Liwei Wang.
 
-My research area is machine learning, with special interests in models and algorithms inspired by theoretical insights. Recently, my work focuses on the Transformer and its variants [1]. I'm also interested in Transformers in vision [2] and graph tasks.
+Di’s main research interests include representation learning (mainly focusing on learning the representation of structured data such as languages and graphs), trust-worthy machine learning, and deep learning optimization. The primary goal of his work is to develop efficient algorithms that can capture accurate and robust features from data through deep neural networks. To achieve this goal, Di focuses on providing a deeper understanding of different neural network architectures for different practical scenarios and their optimization processes. Di has been serving on the PCs and Senior PCs of the top machine learning and artificial intelligence conferences, such as ICML, NIPS, ICLR, AAAI, and IJCAI.
 
 Publications & Preprints
 =====
