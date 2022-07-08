@@ -76,23 +76,28 @@ Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orV
 
 
 
-Past supervised undergraduates
+Past supervised undergraduates@PKU
 =====
 
-[Qizhe Xie](https://www.qizhexie.com/) (CMU)
+[Qizhe Xie](https://www.qizhexie.com/) (CMU, 2016)
 
-[Chengyue Gong](https://sites.google.com/view/chengyue-gong) (UT Austin)
+[Chengyue Gong](https://sites.google.com/view/chengyue-gong) (UT Austin, 2018)
 
-[Jun Gao](http://www.cs.toronto.edu/~jungao/) (University of Toronto)
+[Jun Gao](http://www.cs.toronto.edu/~jungao/) (University of Toronto, 2018)
 
-[Zhuohan Li](https://people.eecs.berkeley.edu/~zhuohan/) (UC Berkeley)
+[Zhuohan Li](https://people.eecs.berkeley.edu/~zhuohan/) (UC Berkeley, 2019)
 
-[Zhiqing Sun](https://www.cs.cmu.edu/~zhiqings/) (CMU)
+[Zhiqing Sun](https://www.cs.cmu.edu/~zhiqings/) (CMU, 2019)
 
-[Yiping Lu](https://web.stanford.edu/~yplu/) (Stanford)
+[Yiping Lu](https://web.stanford.edu/~yplu/) (Stanford, 2019)
 
-[Linyuan Gong](https://github.com/gonglinyuan) (UC Berkeley)
+[Linyuan Gong](https://github.com/gonglinyuan) (UC Berkeley, 2020)
 
-[Runtian Zhai](http://www.runtianzhai.com/) (CMU)
+[Runtian Zhai](http://www.runtianzhai.com/) (CMU, 2020)
 
-[Tianle Cai](https://tianle.website/) (Princeton)
+[Tianle Cai](https://tianle.website/) (Princeton, 2020)
+
+[YunZhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
+
+[Shanda Li](https://lithiumda.github.io/) (CMU, 2022)
+
