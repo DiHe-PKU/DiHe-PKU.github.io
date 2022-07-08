@@ -15,6 +15,9 @@ Di’s main research interests include representation learning (mainly focusing 
 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
+
+[31] Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang, “[HousE: Knowledge Graph Embedding with Householder Parameterization](https://openreview.net/forum?id=olZAWuGOUz)“, **ICML 2022** 
+
 [30] Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Boosting the Certified Robustness of L-infinity Distance Nets](https://openreview.net/forum?id=Q76Y7wkiji)“, **ICLR 2022**
 
 [29] Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, “[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)“, **NeurIPS 2021**
