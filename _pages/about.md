@@ -97,7 +97,7 @@ Past supervised undergraduates@PKU
 
 [Tianle Cai](https://tianle.website/) (Princeton, 2020)
 
-[YunZhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
+[Yunzhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
 
 [Shanda Li](https://lithiumda.github.io/) (CMU, 2022)
 
