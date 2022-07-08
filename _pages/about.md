@@ -76,7 +76,7 @@ Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orV
 
 
 
-Past supervised undergraduates@PKU
+Past supervised undergraduates
 =====
 
 [Qizhe Xie](https://www.qizhexie.com/) (CMU, 2016)
@@ -98,6 +98,8 @@ Past supervised undergraduates@PKU
 [Tianle Cai](https://tianle.website/) (Princeton, 2020)
 
 [Yunzhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
+
+[Chengxuan Ying](https://github.com/chengxuanying) (University of Wisconsin–Madison, 2022)
 
 [Shanda Li](https://lithiumda.github.io/) (CMU, 2022)
 
