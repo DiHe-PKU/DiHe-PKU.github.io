@@ -32,14 +32,6 @@ Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Boosting the Certified Robustness
 
 Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, “[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)“, **NeurIPS 2021**
 
-Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang, “[HousE: Knowledge Graph Embedding with Householder Parameterization](https://openreview.net/forum?id=olZAWuGOUz)“, **ICML 2022** 
-
-Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu, “[Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart](https://openreview.net/forum?id=olZAWuGOUz)“, **CVPR 2022** 
-
-Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Boosting the Certified Robustness of L-infinity Distance Nets](https://openreview.net/forum?id=Q76Y7wkiji)“, **ICLR 2022**
-
-Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, “[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)“, **NeurIPS 2021**
-
 Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu, “[Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/abs/2106.05234)“, **Winner of KDD CUP 2021 – Graph Prediction Track，NeurIPS 2021**
 
 Shuqi Lu, Di He, Chenyan Xiong, Guolin Ke, Waleed Malik, Zhicheng Dou, Paul Bennett, Tie-Yan Liu, Arnold Overwijk, “[Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder](https://arxiv.org/abs/2102.09206)“, **EMNLP 2021**
