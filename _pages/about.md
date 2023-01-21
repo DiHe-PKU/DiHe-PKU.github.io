@@ -16,6 +16,14 @@ Di’s main research interests include representation learning (mainly focusing 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
+Bohang Zhang, Shengjie Luo, Liwei Wang, Di He, “[Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)“, **ICLR 2023 Oral**
+
+Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[One Transformer Can Understand Both 2D & 3D Molecular Data](https://openreview.net/forum?id=vZTp1oPV3PC)“, **ICLR 2023**
+
+QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He, “[Denoising Masked Autoencoders are Certifiable Robust Vision Learners](https://openreview.net/forum?id=zDjtZZBZtqK)“, **ICLR 2023**
+
+Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu, “[Learning Physics-Informed Neural Networks without Stacked Back-propagation](https://openreview.net/forum?id=xaWO6bAY0xM)“, **AISTATS 2023**
+
 Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[Your Transformer May Not be as Powerful as You Expect](https://openreview.net/forum?id=NQFFNdsOGD)“, **NeurIPS 2022** 
 
 Chuwei Wang, Shanda Li, Di He, Liwei Wang, “[Is $L^2$ Physics Informed Loss Always Suitable for Training Physics Informed Neural Network?](https://openreview.net/forum?id=cy1TKLRAEML)“, **NeurIPS 2022** 
