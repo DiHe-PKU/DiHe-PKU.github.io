@@ -22,7 +22,7 @@ Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, D
 
 QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He, “[Denoising Masked Autoencoders are Certifiable Robust Vision Learners](https://openreview.net/forum?id=zDjtZZBZtqK)“, **ICLR 2023**
 
-Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu, “[Learning Physics-Informed Neural Networks without Stacked Back-propagation](https://openreview.net/forum?id=xaWO6bAY0xM)“, **AISTATS 2023**
+Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu, “[Learning Physics-Informed Neural Networks without Stacked Back-propagation](https://arxiv.org/abs/2202.09340)“, **AISTATS 2023**
 
 Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[Your Transformer May Not be as Powerful as You Expect](https://openreview.net/forum?id=NQFFNdsOGD)“, **NeurIPS 2022** 
 
