@@ -24,6 +24,8 @@ QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He, “[Denoisin
 
 Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu, “[Learning Physics-Informed Neural Networks without Stacked Back-propagation](https://arxiv.org/abs/2202.09340)“, **AISTATS 2023**
 
+Huishuai Zhang, Da Yu, Yiping Lu, Di He, “[Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks](https://arxiv.org/abs/2206.04316)“, **AISTATS 2023**
+
 Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[Your Transformer May Not be as Powerful as You Expect](https://openreview.net/forum?id=NQFFNdsOGD)“, **NeurIPS 2022** 
 
 Chuwei Wang, Shanda Li, Di He, Liwei Wang, “[Is $L^2$ Physics Informed Loss Always Suitable for Training Physics Informed Neural Network?](https://openreview.net/forum?id=cy1TKLRAEML)“, **NeurIPS 2022** 
