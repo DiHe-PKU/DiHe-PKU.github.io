@@ -12,7 +12,7 @@ redirect_from:
 Di He (贺笛) is an Assistant Professor at Peking University. He was previsouly a Senior Researcher in Machine Learning Group at Microsoft Research Asia. He obtained his bachelor, master and Ph.D. degrees from Peking University, advised by [Liwei Wang](http://www.liweiwang-pku.com/).
 
 Di’s main research (current and past) include representation learning (large-scale pre-training of foundation models, graph representation learning) and trust-worthy machine learning. The primary goal of his work is to develop efficient algorithms that can capture accurate and robust features from data through deep neural networks. To achieve this goal, Di focuses on providing a deeper understanding of different neural network architectures for different practical scenarios and their optimization processes. Di has been serving on the PCs and Senior PCs of the top machine learning and artificial intelligence conferences, such as ICML, NIPS, ICLR, and CVPR.
-
+"Mercury": "#ff2b2b", 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
