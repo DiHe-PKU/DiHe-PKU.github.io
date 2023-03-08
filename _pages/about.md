@@ -30,7 +30,7 @@ Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[Your 
 
 Chuwei Wang, Shanda Li, Di He, Liwei Wang, “[Is $L^2$ Physics Informed Loss Always Suitable for Training Physics Informed Neural Network?](https://openreview.net/forum?id=cy1TKLRAEML)“, **NeurIPS 2022** 
 
-Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness](https://openreview.net/forum?id=xaWO6bAY0xM)“, **NeurIPS 2022 Oral**
+Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness](https://openreview.net/forum?id=xaWO6bAY0xM)“, <font color=red> NeurIPS 2022 Oral, 1.7% acceptance rate</font>**
 
 Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, “[Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI)“, **NeurIPS 2022**
 
