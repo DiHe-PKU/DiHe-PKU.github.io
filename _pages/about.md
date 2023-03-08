@@ -16,7 +16,7 @@ Di’s main research (current and past) include representation learning (large-s
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
-Bohang Zhang, Shengjie Luo, Liwei Wang, Di He, “[Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)“, **<font color="rgb(139,0,18)"> ICLR 2023 Oral, 1.8% acceptance rate</font>**
+Bohang Zhang, Shengjie Luo, Liwei Wang, Di He, “[Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)“, **<font color="#DC143C"> ICLR 2023 Oral, 1.8% acceptance rate</font>**
 
 Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[One Transformer Can Understand Both 2D & 3D Molecular Data](https://openreview.net/forum?id=vZTp1oPV3PC)“, **ICLR 2023**
 
@@ -30,7 +30,7 @@ Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[Your 
 
 Chuwei Wang, Shanda Li, Di He, Liwei Wang, “[Is $L^2$ Physics Informed Loss Always Suitable for Training Physics Informed Neural Network?](https://openreview.net/forum?id=cy1TKLRAEML)“, **NeurIPS 2022** 
 
-Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness](https://openreview.net/forum?id=xaWO6bAY0xM)“, **<font color=tomato> NeurIPS 2022 Oral, 1.7% acceptance rate</font>**
+Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness](https://openreview.net/forum?id=xaWO6bAY0xM)“, **<font color="#DC143C"> NeurIPS 2022 Oral, 1.7% acceptance rate</font>**
 
 Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, “[Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI)“, **NeurIPS 2022**
 
@@ -42,7 +42,7 @@ Bohang Zhang, Du Jiang, Di He, Liwei Wang, “[Boosting the Certified Robustness
 
 Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, “[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)“, **NeurIPS 2021**
 
-Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu, “[Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/abs/2106.05234)“, **<font color=tomato> Winner of KDD CUP 2021 – Graph Prediction Track，NeurIPS 2021</font>**
+Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu, “[Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/abs/2106.05234)“, **<font color="#DC143C"> Winner of KDD CUP 2021 – Graph Prediction Track，NeurIPS 2021</font>**
 
 Shuqi Lu, Di He, Chenyan Xiong, Guolin Ke, Waleed Malik, Zhicheng Dou, Paul Bennett, Tie-Yan Liu, Arnold Overwijk, “[Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder](https://arxiv.org/abs/2102.09206)“, **EMNLP 2021**
 
