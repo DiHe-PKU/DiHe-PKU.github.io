@@ -15,7 +15,8 @@ Di’s main research (current and past) include representation learning (large-s
 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
-
+Bohang Zhang, Guhao Feng, Yiheng Du, Di He, Liwei Wang, “[A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090)”, **ICML 2023**
+  
 Bohang Zhang, Shengjie Luo, Liwei Wang, Di He, “[Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)“, **<font color="#DC143C"> ICLR 2023 Outstanding Paper Award</font>**
 
 Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, “[One Transformer Can Understand Both 2D & 3D Molecular Data](https://openreview.net/forum?id=vZTp1oPV3PC)“, **ICLR 2023**
