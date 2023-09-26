@@ -15,9 +15,11 @@ Di’s main research (current and past) include representation learning (large-s
 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
-Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang, "[DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)”, **CVPR 2023**
+Guhao Feng*, Bohang Zhang*, Yuntian Gu*, Haotian Ye*, Di He, Liwei Wang, "[Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective](https://arxiv.org/abs/2305.15408)", **NeurIPS 2023 Oral**
 
-Bohang Zhang, Guhao Feng, Yiheng Du, Di He, Liwei Wang, "[A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090)”, **ICML 2023**
+Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang, "[DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)", **CVPR 2023**
+
+Bohang Zhang, Guhao Feng, Yiheng Du, Di He, Liwei Wang, "[A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090)", **ICML 2023**
   
 Bohang Zhang, Shengjie Luo, Liwei Wang, Di He, "[Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)", **<font color="#DC143C"> ICLR 2023 Outstanding Paper Award</font>**
 
@@ -126,7 +128,10 @@ Past supervised undergraduates
 
 [Yunzhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
 
-[Chengxuan Ying](https://github.com/chengxuanying) (University of Wisconsin–Madison, 2022)
+[Chengxuan Ying](https://github.com/chengxuanying) (Citadel, 2022)
 
 [Shanda Li](https://lithiumda.github.io/) (CMU, 2022)
 
+[Chuwei Wang](https://scholar.google.com/citations?user=O5GIrl4AAAAJ&hl=zh-CN) (Caltach, 2023)
+
+[Haotian Ye](https://haotianye.com/) (Stanford, 2023)
