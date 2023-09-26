@@ -15,7 +15,7 @@ Di’s main research (current and past) include representation learning (large-s
 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
-Guhao Feng*, Bohang Zhang*, Yuntian Gu*, Haotian Ye*, Di He, Liwei Wang, "[Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective](https://arxiv.org/abs/2305.15408)", **<font color="#DC143C"> NeurIPS 2023 Oral**
+Guhao Feng*, Bohang Zhang*, Yuntian Gu*, Haotian Ye*, Di He, Liwei Wang, "[Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective](https://arxiv.org/abs/2305.15408)", **<font color="#DC143C"> NeurIPS 2023 Oral</font>**
 
 Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang, "[DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)", **CVPR 2023**
 
