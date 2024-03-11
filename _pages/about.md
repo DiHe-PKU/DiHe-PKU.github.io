@@ -16,6 +16,8 @@ Di’s main research focuses on generative models (e.g. large language models) a
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
+Krzysztof Marcin Choromanski, Shanda Li, Valerii Likhosherstov, Kumar Avinava Dubey, Shengjie Luo, Di He, Yiming Yang, Tamas Sarlos, Thomas Weingarten, Adrian Weller, "[Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers](https://arxiv.org/abs/2302.01925)", **AISTATS 2024**
+
 Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generation via Virtual Dynamics](https://arxiv.org/abs/2302.05847)", **TMLR**
 
 Ruichen Li*, Haotian Ye*, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **<font color="#DC143C"> Nature Machine Intelligence</font>**
