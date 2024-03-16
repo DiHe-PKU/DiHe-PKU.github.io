@@ -20,13 +20,13 @@ Krzysztof Marcin Choromanski, Shanda Li, Valerii Likhosherstov, Kumar Avinava Du
 
 Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generation via Virtual Dynamics](https://arxiv.org/abs/2302.05847)", **TMLR**
 
-Ruichen Li*, Haotian Ye*, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **<font color="#DC143C"> Nature Machine Intelligence</font>**
+Ruichen Li, Haotian Ye, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **<font color="#DC143C"> Nature Machine Intelligence</font>**
 
 Bohang Zhang, Jingchu Gai, Yiheng Du, Qiwei Ye, Di He, Liwei Wang, "[Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514)", **<font color="#DC143C"> ICLR 2024 Oral, top 0.7%</font>**
 
 Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, "[Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://arxiv.org/abs/2402.11984)", **ICLR 2024**
 
-Guhao Feng*, Bohang Zhang*, Yuntian Gu*, Haotian Ye*, Di He, Liwei Wang, "[Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective](https://arxiv.org/abs/2305.15408)", **<font color="#DC143C"> NeurIPS 2023 Oral, top 0.7%</font>**
+Guhao Feng, Bohang Zhang, Yuntian Gu, Haotian Ye, Di He, Liwei Wang, "[Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective](https://arxiv.org/abs/2305.15408)", **<font color="#DC143C"> NeurIPS 2023 Oral, top 0.7%</font>**
 
 Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang, "[DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)", **CVPR 2023**
 
