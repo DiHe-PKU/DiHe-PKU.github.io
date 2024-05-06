@@ -16,6 +16,16 @@ Di’s main research focuses on generative models (e.g. large language models) a
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
+Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang, "[Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)", **ICML 2024**
+
+Mingqing Xiao, Yixin Zhu, Di He, Zhouchen Lin, "[Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning]()", **ICML 2024**
+
+Tianlang Chen, Shengjie Luo, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, "[GeoMFormer: A General Architecture for Geometric Molecular Representation Learning](https://openreview.net/forum?id=s0UNtuuqU5)", **ICML 2024**
+
+Zhenyu He, Guhao Feng, Shengjie Luo, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He, "[Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)", **ICML 2024**
+
+Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D. Lee, Di He, "[REST: Retrieval-Based Speculative Decoding](https://arxiv.org/abs/2311.08252)", **NAACL 2024**
+
 Krzysztof Marcin Choromanski, Shanda Li, Valerii Likhosherstov, Kumar Avinava Dubey, Shengjie Luo, Di He, Yiming Yang, Tamas Sarlos, Thomas Weingarten, Adrian Weller, "[Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers](https://arxiv.org/abs/2302.01925)", **AISTATS 2024**
 
 Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generation via Virtual Dynamics](https://arxiv.org/abs/2302.05847)", **TMLR**
