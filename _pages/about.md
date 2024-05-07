@@ -32,7 +32,7 @@ Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generat
 
 Ruichen Li, Haotian Ye, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **<font color="#DC143C"> Nature Machine Intelligence</font>**
 
-Bohang Zhang, Jingchu Gai, Yiheng Du, Qiwei Ye, Di He, Liwei Wang, "[Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514)", **<font color="#DC143C"> ICLR 2024 Oral, top 0.7%</font>**
+Bohang Zhang, Jingchu Gai, Yiheng Du, Qiwei Ye, Di He, Liwei Wang, "[Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514)", **<font color="#DC143C"> ICLR 2024 Oral, Outstanding Paper Honorable Mention</font>**
 
 Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, "[Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://arxiv.org/abs/2402.11984)", **ICLR 2024**
 
