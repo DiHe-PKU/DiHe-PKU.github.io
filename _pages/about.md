@@ -30,7 +30,7 @@ Krzysztof Marcin Choromanski, Shanda Li, Valerii Likhosherstov, Kumar Avinava Du
 
 Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generation via Virtual Dynamics](https://arxiv.org/abs/2302.05847)", **TMLR**
 
-Ruichen Li, Haotian Ye, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **<font color="#DC143C"> Nature Machine Intelligence</font>**
+Ruichen Li, Haotian Ye, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **Nature Machine Intelligence**
 
 Bohang Zhang, Jingchu Gai, Yiheng Du, Qiwei Ye, Di He, Liwei Wang, "[Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514)", **<font color="#DC143C"> ICLR 2024 Outstanding Paper Honorable Mention</font>**
 
