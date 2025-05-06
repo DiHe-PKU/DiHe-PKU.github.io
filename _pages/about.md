@@ -156,3 +156,9 @@ Past supervised undergraduates
 [Chuwei Wang](https://scholar.google.com/citations?user=O5GIrl4AAAAJ&hl=zh-CN) (Caltach, 2023)
 
 [Haotian Ye](https://haotianye.com/) (Stanford, 2023)
+
+[Tianlang Chen](https://scholar.google.com/citations?user=x65kfVEAAAAJ&hl=en) (Stanford, 2024)
+
+[Xinle Cheng](https://ada-cheng.github.io/) (Princeton, 2025)
+
+[Kai Yang](https://scholar.google.com.hk/citations?user=GODkQEkAAAAJ&hl=en) (UMich, 2025)
