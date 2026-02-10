@@ -16,6 +16,32 @@ Di’s main research focuses on generative models (e.g., large language models) 
 Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
+Sen Ye, Mengde Xu, Di He, Winston Hu, Liwei Wang, Shuyang Gu, "[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://openreview.net/forum?id=1smez00sCm)", **ICLR 2026**
+
+Yi-Fei Liu, Yi-long Lu, Di He, Hang Zhang, "[From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers](https://arxiv.org/abs/2511.03235)", **ICLR 2026**
+
+Guhao Feng, Shengjie Luo, Kai Hua, Ge Zhang, Wenhao Huang, Di He, Tianle Cai, "[In-Place Test-Time Training](https://openreview.net/forum?id=dTWfCLSoyl)", **<font color="#DC143C"> ICLR 2026 Oral, top 1.18%</font>**
+
+Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Dongsheng Li, Zhouchen Lin, "[Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks](https://arxiv.org/abs/2407.12516)", **ICLR 2026**
+
+Yixian Xu, Yusong Wang, Shengjie Luo, Kaiyuan Gao, Tianyu He, Chana Liu, Di He, "[Quotient-Space Diffusion Model](https://openreview.net/forum?id=3JPAkwSVc4)", **<font color="#DC143C"> ICLR 2026 Oral, top 1.18%</font>**
+
+Yixian Xu, Shengjie Luo, Liwei Wang, Di He, Chang Liu, "[Diagnosing and Improving Diffusion Models by Estimating Optimal Loss Value](https://arxiv.org/abs/2506.13763)", **ICLR 2026**
+
+Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He, "[Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622)", **NeurIPS 2025**
+
+Zixia Jia, Jiaqi Li, Yipeng Kang, Yuxuan Wang, Tong Wu, Quansen Wang, Xiaobo Wang, Shuyi Zhang, Junzhe Shen, Qing Li, Siyuan Qi, Yitao Liang, Di He, Zilong Zheng, Song-Chun Zhu, "[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)", **TMLR**
+
+Zhang Zhang, Guhao Feng, Jian Guan, Di He, Wei Wu, "[Beyond Online Sampling: Bridging Offline-to-Online Alignment via Dynamic Data Transformation for LLMs](https://aclanthology.org/2025.emnlp-main.1378/)", **EMNLP 2025**
+
+Han Zhong, Guhao Feng, Wei Xiong, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang, "[DPO Meets PPO: Reinforced Token Optimization for RLHF](https://arxiv.org/abs/2404.18922)", **<font color="#DC143C"> ICML 2025 Spotlight, top 2.59%</font>**
+
+Yunfei Teng, Sixin Zhang, Yao Li, Kai Chen, Di He, Qiwei Ye, "[Follow Hamiltonian Leader: An Efficient Energy-Guided Sampling Method](https://openreview.net/forum?id=EM75aI3mAs)", **FPI-ICLR 2025**
+
+Zhenyu He, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He, "[Let the Code LLM Edit Itself When You Edit the Code](https://arxiv.org/abs/2407.03157)", **ICLR 2025**
+
+Shengjie Luo, Yixian Xu, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, "[Bridging Geometric States via Geometric Diffusion Bridge](https://arxiv.org/abs/2410.24220)", **NeurIPS 2024**
+
 Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang, "[Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)", **ICML 2024**
 
 Mingqing Xiao, Yixin Zhu, Di He, Zhouchen Lin, "[Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning]()", **ICML 2024**
