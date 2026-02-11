@@ -28,6 +28,10 @@ Yixian Xu, Yusong Wang, Shengjie Luo, Kaiyuan Gao, Tianyu He, Chana Liu, Di He, 
 
 Yixian Xu, Shengjie Luo, Liwei Wang, Di He, Chang Liu, "[Diagnosing and Improving Diffusion Models by Estimating Optimal Loss Value](https://arxiv.org/abs/2506.13763)", **ICLR 2026**
 
+Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He, "[Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning](https://arxiv.org/abs/2502.08482)", **EACL 2026**
+
+Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou, "[Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression](https://arxiv.org/abs/2508.05337)", **AAAI 2026**
+
 Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He, "[Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622)", **NeurIPS 2025**
 
 Zixia Jia, Jiaqi Li, Yipeng Kang, Yuxuan Wang, Tong Wu, Quansen Wang, Xiaobo Wang, Shuyi Zhang, Junzhe Shen, Qing Li, Siyuan Qi, Yitao Liang, Di He, Zilong Zheng, Song-Chun Zhu, "[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)", **TMLR**
