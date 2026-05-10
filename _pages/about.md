@@ -13,7 +13,7 @@ Di He (贺笛) is an Assistant Professor at Peking University. He was previously
 
 Di’s main research focuses on generative models (e.g., large language models) and AI4Science. The primary goal of his work is to develop efficient algorithms that can capture accurate and robust features from data through deep neural networks. To achieve this goal, Di focuses on providing a deeper understanding of different neural network architectures for different practical scenarios and their optimization processes. Di won the **<font color="#DC143C"> ICLR 2023 Outstanding Paper Award</font>** and **<font color="#DC143C"> ICLR 2024 Outstanding Paper Honorable Mention</font>**. He has been serving on the PCs and Senior PCs of the top machine learning and artificial intelligence conferences, such as ICML, NIPS, ICLR.
 
-Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
+Recent Publications 
 =====
 
 Sen Ye, Mengde Xu, Di He, Winston Hu, Liwei Wang, Shuyang Gu, "[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://openreview.net/forum?id=1smez00sCm)", **ICLR 2026**
@@ -100,6 +100,50 @@ Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin K
 
 Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu, "[Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/abs/2106.05234)", **<font color="#DC143C"> Winner of KDD CUP 2021 – Graph Prediction Track，NeurIPS 2021</font>**
 
+
+
+
+
+Past supervised undergraduates
+=====
+
+[Qizhe Xie](https://www.qizhexie.com/) (CMU, 2016)
+
+[Chengyue Gong](https://sites.google.com/view/chengyue-gong) (UT Austin, 2018)
+
+[Jun Gao](http://www.cs.toronto.edu/~jungao/) (University of Toronto, 2018)
+
+[Zhuohan Li](https://people.eecs.berkeley.edu/~zhuohan/) (UC Berkeley, 2019)
+
+[Zhiqing Sun](https://www.cs.cmu.edu/~zhiqings/) (CMU, 2019)
+
+[Yiping Lu](https://web.stanford.edu/~yplu/) (Stanford, 2019)
+
+[Linyuan Gong](https://github.com/gonglinyuan) (UC Berkeley, 2020)
+
+[Runtian Zhai](http://www.runtianzhai.com/) (CMU, 2020)
+
+[Tianle Cai](https://tianle.website/) (Princeton, 2020)
+
+[Yunzhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
+
+[Chengxuan Ying](https://github.com/chengxuanying) (Citadel, 2022)
+
+[Shanda Li](https://lithiumda.github.io/) (CMU, 2022)
+
+[Chuwei Wang](https://scholar.google.com/citations?user=O5GIrl4AAAAJ&hl=zh-CN) (Caltach, 2023)
+
+[Haotian Ye](https://haotianye.com/) (Stanford, 2023)
+
+[Tianlang Chen](https://scholar.google.com/citations?user=x65kfVEAAAAJ&hl=en) (Stanford, 2024)
+
+[Xinle Cheng](https://ada-cheng.github.io/) (Princeton, 2025)
+
+[Kai Yang](https://scholar.google.com.hk/citations?user=GODkQEkAAAAJ&hl=en) (UMich, 2025)
+
+Old Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
+=====
+
 Shuqi Lu, Di He, Chenyan Xiong, Guolin Ke, Waleed Malik, Zhicheng Dou, Paul Bennett, Tie-Yan Liu, Arnold Overwijk, "[Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder](https://arxiv.org/abs/2102.09206)", **EMNLP 2021**
 
 Dinglan Peng, Shuxin Zheng, Yatao Li, Guolin Ke, Di He, Tie-Yan Liu, "[How could Neural Networks Understand Programs](https://arxiv.org/abs/2105.04297)", **ICML 2021**
@@ -153,42 +197,3 @@ Wei Chen, Di He, Tie-Yan Liu, Tao Qin, Yixin Tao, Liwei Wang,  "[Generalized Sec
 Di He, Wei Chen, Liwei Wang, Tie-Yan Liu, "[A Game-Theoretic Machine Learning Approach for Revenue Maximization in Sponsored Search](https://arxiv.org/abs/1406.0728)”, **IJCAI 2013**
 
 Yining Wang, Liwei Wang, Yuanzhi Li, Di He, Wei Chen, Tie-Yan Liu, "[A Theoretical Analysis of NDCG Type Ranking Measures](http://proceedings.mlr.press/v30/Wang13.pdf)”, **Annual Conference on Learning Theory (COLT), 2013**
-
-
-
-Past supervised undergraduates
-=====
-
-[Qizhe Xie](https://www.qizhexie.com/) (CMU, 2016)
-
-[Chengyue Gong](https://sites.google.com/view/chengyue-gong) (UT Austin, 2018)
-
-[Jun Gao](http://www.cs.toronto.edu/~jungao/) (University of Toronto, 2018)
-
-[Zhuohan Li](https://people.eecs.berkeley.edu/~zhuohan/) (UC Berkeley, 2019)
-
-[Zhiqing Sun](https://www.cs.cmu.edu/~zhiqings/) (CMU, 2019)
-
-[Yiping Lu](https://web.stanford.edu/~yplu/) (Stanford, 2019)
-
-[Linyuan Gong](https://github.com/gonglinyuan) (UC Berkeley, 2020)
-
-[Runtian Zhai](http://www.runtianzhai.com/) (CMU, 2020)
-
-[Tianle Cai](https://tianle.website/) (Princeton, 2020)
-
-[Yunzhen Feng](https://fengyzpku.github.io/) (NYU, 2021)
-
-[Chengxuan Ying](https://github.com/chengxuanying) (Citadel, 2022)
-
-[Shanda Li](https://lithiumda.github.io/) (CMU, 2022)
-
-[Chuwei Wang](https://scholar.google.com/citations?user=O5GIrl4AAAAJ&hl=zh-CN) (Caltach, 2023)
-
-[Haotian Ye](https://haotianye.com/) (Stanford, 2023)
-
-[Tianlang Chen](https://scholar.google.com/citations?user=x65kfVEAAAAJ&hl=en) (Stanford, 2024)
-
-[Xinle Cheng](https://ada-cheng.github.io/) (Princeton, 2025)
-
-[Kai Yang](https://scholar.google.com.hk/citations?user=GODkQEkAAAAJ&hl=en) (UMich, 2025)
