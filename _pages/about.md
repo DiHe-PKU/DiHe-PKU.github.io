@@ -13,96 +13,24 @@ Di He (贺笛) is an Assistant Professor at Peking University. He was previously
 
 Di’s main research focuses on generative models (e.g., large language models) and AI4Science. The primary goal of his work is to develop efficient algorithms that can capture accurate and robust features from data through deep neural networks. To achieve this goal, Di focuses on providing a deeper understanding of different neural network architectures for different practical scenarios and their optimization processes. Di won the **<font color="#DC143C"> ICLR 2023 Outstanding Paper Award</font>** and **<font color="#DC143C"> ICLR 2024 Outstanding Paper Honorable Mention</font>**. He has been serving on the PCs and Senior PCs of the top machine learning and artificial intelligence conferences, such as ICML, NIPS, ICLR.
 
-Recent Publications 
+Highlighted Publications 
 =====
-
-Sen Ye, Mengde Xu, Di He, Winston Hu, Liwei Wang, Shuyang Gu, "[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://openreview.net/forum?id=1smez00sCm)", **ICLR 2026**
-
-Yi-Fei Liu, Yi-long Lu, Di He, Hang Zhang, "[From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers](https://arxiv.org/abs/2511.03235)", **ICLR 2026**
 
 Guhao Feng, Shengjie Luo, Kai Hua, Ge Zhang, Wenhao Huang, Di He, Tianle Cai, "[In-Place Test-Time Training](https://openreview.net/forum?id=dTWfCLSoyl)", **<font color="#DC143C"> ICLR 2026 Oral, top 1.18%</font>**
 
-Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Dongsheng Li, Zhouchen Lin, "[Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks](https://arxiv.org/abs/2407.12516)", **ICLR 2026**
-
 Yixian Xu, Yusong Wang, Shengjie Luo, Kaiyuan Gao, Tianyu He, Chana Liu, Di He, "[Quotient-Space Diffusion Model](https://openreview.net/forum?id=3JPAkwSVc4)", **<font color="#DC143C"> ICLR 2026 Oral, top 1.18%</font>**
 
-Yixian Xu, Shengjie Luo, Liwei Wang, Di He, Chang Liu, "[Diagnosing and Improving Diffusion Models by Estimating Optimal Loss Value](https://arxiv.org/abs/2506.13763)", **ICLR 2026**
-
-Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He, "[Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning](https://arxiv.org/abs/2502.08482)", **EACL 2026**
-
-Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou, "[Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression](https://arxiv.org/abs/2508.05337)", **AAAI 2026**
-
-Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He, "[Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622)", **NeurIPS 2025**
-
-Zixia Jia, Jiaqi Li, Yipeng Kang, Yuxuan Wang, Tong Wu, Quansen Wang, Xiaobo Wang, Shuyi Zhang, Junzhe Shen, Qing Li, Siyuan Qi, Yitao Liang, Di He, Zilong Zheng, Song-Chun Zhu, "[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)", **TMLR**
-
-Zhang Zhang, Guhao Feng, Jian Guan, Di He, Wei Wu, "[Beyond Online Sampling: Bridging Offline-to-Online Alignment via Dynamic Data Transformation for LLMs](https://aclanthology.org/2025.emnlp-main.1378/)", **EMNLP 2025**
-
 Han Zhong, Guhao Feng, Wei Xiong, Xinle Cheng, Li Zhao, Di He, Jiang Bian, Liwei Wang, "[DPO Meets PPO: Reinforced Token Optimization for RLHF](https://arxiv.org/abs/2404.18922)", **<font color="#DC143C"> ICML 2025 Spotlight, top 2.59%</font>**
-
-Yunfei Teng, Sixin Zhang, Yao Li, Kai Chen, Di He, Qiwei Ye, "[Follow Hamiltonian Leader: An Efficient Energy-Guided Sampling Method](https://openreview.net/forum?id=EM75aI3mAs)", **FPI-ICLR 2025**
-
-Zhenyu He, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He, "[Let the Code LLM Edit Itself When You Edit the Code](https://arxiv.org/abs/2407.03157)", **ICLR 2025**
-
-Shengjie Luo, Yixian Xu, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, "[Bridging Geometric States via Geometric Diffusion Bridge](https://arxiv.org/abs/2410.24220)", **NeurIPS 2024**
-
-Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang, "[Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)", **ICML 2024**
-
-Mingqing Xiao, Yixin Zhu, Di He, Zhouchen Lin, "[Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning]()", **ICML 2024**
-
-Tianlang Chen, Shengjie Luo, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, "[GeoMFormer: A General Architecture for Geometric Molecular Representation Learning](https://openreview.net/forum?id=s0UNtuuqU5)", **ICML 2024**
-
-Zhenyu He, Guhao Feng, Shengjie Luo, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He, "[Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)", **ICML 2024**
-
-Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D. Lee, Di He, "[REST: Retrieval-Based Speculative Decoding](https://arxiv.org/abs/2311.08252)", **NAACL 2024**
-
-Krzysztof Marcin Choromanski, Shanda Li, Valerii Likhosherstov, Kumar Avinava Dubey, Shengjie Luo, Di He, Yiming Yang, Tamas Sarlos, Thomas Weingarten, Adrian Weller, "[Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers](https://arxiv.org/abs/2302.01925)", **AISTATS 2024**
-
-Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generation via Virtual Dynamics](https://arxiv.org/abs/2302.05847)", **TMLR**
 
 Ruichen Li, Haotian Ye, Du Jiang, Xuelan Wen, Chuwei Wang, Zhe Li, Xiang Li, Di He, Ji Chen, Weiluo Ren, Liwei Wang, "[A Computational Framework for Neural Network-based Variational Monte Carlo with Forward Laplacian](https://www.nature.com/articles/s42256-024-00794-x)", **Nature Machine Intelligence**
 
 Bohang Zhang, Jingchu Gai, Yiheng Du, Qiwei Ye, Di He, Liwei Wang, "[Beyond Weisfeiler-Lehman: A Quantitative Framework for GNN Expressiveness](https://arxiv.org/abs/2401.08514)", **<font color="#DC143C"> ICLR 2024 Outstanding Paper Honorable Mention</font>**
 
-Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, "[Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://arxiv.org/abs/2402.11984)", **ICLR 2024**
-
 Guhao Feng, Bohang Zhang, Yuntian Gu, Haotian Ye, Di He, Liwei Wang, "[Towards Revealing the Mystery behind Chain of Thought: a Theoretical Perspective](https://arxiv.org/abs/2305.15408)", **<font color="#DC143C"> NeurIPS 2023 Oral, top 0.7%</font>**
 
-Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang, "[DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)", **CVPR 2023**
-
-Bohang Zhang, Guhao Feng, Yiheng Du, Di He, Liwei Wang, "[A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090)", **ICML 2023**
-  
 Bohang Zhang, Shengjie Luo, Liwei Wang, Di He, "[Rethinking the Expressive Power of GNNs via Graph Biconnectivity](https://openreview.net/forum?id=r9hNv76KoT3)", **<font color="#DC143C"> ICLR 2023 Outstanding Paper Award</font>**
 
-Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, "[One Transformer Can Understand Both 2D & 3D Molecular Data](https://openreview.net/forum?id=vZTp1oPV3PC)", **ICLR 2023**
-
-QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He, "[Denoising Masked Autoencoders are Certifiable Robust Vision Learners](https://openreview.net/forum?id=zDjtZZBZtqK)", **ICLR 2023**
-
-Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu, "[Learning Physics-Informed Neural Networks without Stacked Back-propagation](https://arxiv.org/abs/2202.09340)", **AISTATS 2023**
-
-Huishuai Zhang, Da Yu, Yiping Lu, Di He, "[Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks](https://arxiv.org/abs/2206.04316)", **AISTATS 2023**
-
-Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, "[Your Transformer May Not be as Powerful as You Expect](https://openreview.net/forum?id=NQFFNdsOGD)", **NeurIPS 2022** 
-
-Chuwei Wang, Shanda Li, Di He, Liwei Wang, "[Is $L^2$ Physics Informed Loss Always Suitable for Training Physics Informed Neural Network?](https://openreview.net/forum?id=cy1TKLRAEML)", **NeurIPS 2022** 
-
 Bohang Zhang, Du Jiang, Di He, Liwei Wang, "[Rethinking Lipschitz Neural Networks for Certified L-infinity Robustness](https://openreview.net/forum?id=xaWO6bAY0xM)", **<font color="#DC143C"> NeurIPS 2022 Oral, 1.7% acceptance rate</font>**
-
-Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, "[Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI)", **NeurIPS 2022**
-
-Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang, "[HousE: Knowledge Graph Embedding with Householder Parameterization](https://openreview.net/forum?id=olZAWuGOUz)", **ICML 2022** 
-
-Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu, ""[Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart](https://openreview.net/forum?id=olZAWuGOUz)", **CVPR 2022** 
-
-Bohang Zhang, Du Jiang, Di He, Liwei Wang, "[Boosting the Certified Robustness of L-infinity Distance Nets](https://openreview.net/forum?id=Q76Y7wkiji)", **ICLR 2022**
-
-Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, "[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)", **NeurIPS 2021**
-
-Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu, "[Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/abs/2106.05234)", **<font color="#DC143C"> Winner of KDD CUP 2021 – Graph Prediction Track，NeurIPS 2021</font>**
-
-
-
-
 
 Past supervised undergraduates
 =====
@@ -141,8 +69,76 @@ Past supervised undergraduates
 
 [Kai Yang](https://scholar.google.com.hk/citations?user=GODkQEkAAAAJ&hl=en) (UMich, 2025)
 
-Old Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
+Other Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
+
+Sen Ye, Mengde Xu, Di He, Winston Hu, Liwei Wang, Shuyang Gu, "[Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models](https://openreview.net/forum?id=1smez00sCm)", **ICLR 2026**
+
+Yi-Fei Liu, Yi-long Lu, Di He, Hang Zhang, "[From Five Dimensions to Many: Large Language Models as Precise and Interpretable Psychological Profilers](https://arxiv.org/abs/2511.03235)", **ICLR 2026**
+
+Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Dongsheng Li, Zhouchen Lin, "[Online Pseudo-Zeroth-Order Training of Neuromorphic Spiking Neural Networks](https://arxiv.org/abs/2407.12516)", **ICLR 2026**
+
+Yixian Xu, Shengjie Luo, Liwei Wang, Di He, Chang Liu, "[Diagnosing and Improving Diffusion Models by Estimating Optimal Loss Value](https://arxiv.org/abs/2506.13763)", **ICLR 2026**
+
+Qifan Yu, Zhenyu He, Sijie Li, Xun Zhou, Jun Zhang, Jingjing Xu, Di He, "[Enhancing Auto-regressive Chain-of-Thought through Loop-Aligned Reasoning](https://arxiv.org/abs/2502.08482)", **EACL 2026**
+
+Jiameng Huang, Baijiong Lin, Guhao Feng, Jierun Chen, Di He, Lu Hou, "[Efficient Reasoning for Large Reasoning Language Models via Certainty-Guided Reflection Suppression](https://arxiv.org/abs/2508.05337)", **AAAI 2026**
+
+Guhao Feng, Yihan Geng, Jian Guan, Wei Wu, Liwei Wang, Di He, "[Theoretical Benefit and Limitation of Diffusion Language Model](https://arxiv.org/abs/2502.09622)", **NeurIPS 2025**
+
+Zixia Jia, Jiaqi Li, Yipeng Kang, Yuxuan Wang, Tong Wu, Quansen Wang, Xiaobo Wang, Shuyi Zhang, Junzhe Shen, Qing Li, Siyuan Qi, Yitao Liang, Di He, Zilong Zheng, Song-Chun Zhu, "[The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)", **TMLR**
+
+Zhang Zhang, Guhao Feng, Jian Guan, Di He, Wei Wu, "[Beyond Online Sampling: Bridging Offline-to-Online Alignment via Dynamic Data Transformation for LLMs](https://aclanthology.org/2025.emnlp-main.1378/)", **EMNLP 2025**
+
+Yunfei Teng, Sixin Zhang, Yao Li, Kai Chen, Di He, Qiwei Ye, "[Follow Hamiltonian Leader: An Efficient Energy-Guided Sampling Method](https://openreview.net/forum?id=EM75aI3mAs)", **FPI-ICLR 2025**
+
+Zhenyu He, Jun Zhang, Shengjie Luo, Jingjing Xu, Zhi Zhang, Di He, "[Let the Code LLM Edit Itself When You Edit the Code](https://arxiv.org/abs/2407.03157)", **ICLR 2025**
+
+Shengjie Luo, Yixian Xu, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, "[Bridging Geometric States via Geometric Diffusion Bridge](https://arxiv.org/abs/2410.24220)", **NeurIPS 2024**
+
+Kai Yang, Jan Ackermann, Zhenyu He, Guhao Feng, Bohang Zhang, Yunzhen Feng, Qiwei Ye, Di He, Liwei Wang, "[Do Efficient Transformers Really Save Computation?](https://arxiv.org/abs/2402.13934)", **ICML 2024**
+
+Mingqing Xiao, Yixin Zhu, Di He, Zhouchen Lin, "[Temporal Spiking Neural Networks with Synaptic Delay for Graph Reasoning]()", **ICML 2024**
+
+Tianlang Chen, Shengjie Luo, Di He, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, "[GeoMFormer: A General Architecture for Geometric Molecular Representation Learning](https://openreview.net/forum?id=s0UNtuuqU5)", **ICML 2024**
+
+Zhenyu He, Guhao Feng, Shengjie Luo, Kai Yang, Liwei Wang, Jingjing Xu, Zhi Zhang, Hongxia Yang, Di He, "[Two Stones Hit One Bird: Bilevel Positional Encoding for Better Length Extrapolation](https://arxiv.org/abs/2401.16421)", **ICML 2024**
+
+Zhenyu He, Zexuan Zhong, Tianle Cai, Jason D. Lee, Di He, "[REST: Retrieval-Based Speculative Decoding](https://arxiv.org/abs/2311.08252)", **NAACL 2024**
+
+Krzysztof Marcin Choromanski, Shanda Li, Valerii Likhosherstov, Kumar Avinava Dubey, Shengjie Luo, Di He, Yiming Yang, Tamas Sarlos, Thomas Weingarten, Adrian Weller, "[Learning a Fourier Transform for Linear Relative Positional Encodings in Transformers](https://arxiv.org/abs/2302.01925)", **AISTATS 2024**
+
+Shuqi Lu, Lin Yao, Xi Chen, Hang Zheng, Di He, Guolin Ke, "[3D Molecular Generation via Virtual Dynamics](https://arxiv.org/abs/2302.05847)", **TMLR**
+
+Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, "[Hebbian Learning based Orthogonal Projection for Continual Learning of Spiking Neural Networks](https://arxiv.org/abs/2402.11984)", **ICLR 2024**
+
+Haiyang Wang, Chen Shi, Shaoshuai Shi, Meng Lei, Sen Wang, Di He, Bernt Schiele, Liwei Wang, "[DSVT: Dynamic Sparse Voxel Transformer with Rotated Sets](https://arxiv.org/abs/2301.06051)", **CVPR 2023**
+
+Bohang Zhang, Guhao Feng, Yiheng Du, Di He, Liwei Wang, "[A Complete Expressiveness Hierarchy for Subgraph GNNs via Subgraph Weisfeiler-Lehman Tests](https://arxiv.org/abs/2302.07090)", **ICML 2023**
+
+Shengjie Luo, Tianlang Chen, Yixian Xu, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, "[One Transformer Can Understand Both 2D & 3D Molecular Data](https://openreview.net/forum?id=vZTp1oPV3PC)", **ICLR 2023**
+
+QuanLin Wu, Hang Ye, Yuntian Gu, Huishuai Zhang, Liwei Wang, Di He, "[Denoising Masked Autoencoders are Certifiable Robust Vision Learners](https://openreview.net/forum?id=zDjtZZBZtqK)", **ICLR 2023**
+
+Di He, Shanda Li, Wenlei Shi, Xiaotian Gao, Jia Zhang, Jiang Bian, Liwei Wang, Tie-Yan Liu, "[Learning Physics-Informed Neural Networks without Stacked Back-propagation](https://arxiv.org/abs/2202.09340)", **AISTATS 2023**
+
+Huishuai Zhang, Da Yu, Yiping Lu, Di He, "[Adversarial Noises Are Linearly Separable for (Nearly) Random Neural Networks](https://arxiv.org/abs/2206.04316)", **AISTATS 2023**
+
+Shengjie Luo, Shanda Li, Shuxin Zheng, Tie-Yan Liu, Liwei Wang, Di He, "[Your Transformer May Not be as Powerful as You Expect](https://openreview.net/forum?id=NQFFNdsOGD)", **NeurIPS 2022** 
+
+Chuwei Wang, Shanda Li, Di He, Liwei Wang, "[Is $L^2$ Physics Informed Loss Always Suitable for Training Physics Informed Neural Network?](https://openreview.net/forum?id=cy1TKLRAEML)", **NeurIPS 2022** 
+
+Mingqing Xiao, Qingyan Meng, Zongpeng Zhang, Di He, Zhouchen Lin, "[Online Training Through Time for Spiking Neural Networks](https://openreview.net/forum?id=Siv3nHYHheI)", **NeurIPS 2022**
+
+Rui Li, Jianan Zhao, Chaozhuo Li, Di He, Yiqi Wang, Yuming Liu, Hao Sun, Senzhang Wang, Weiwei Deng, Yanming Shen, Xing Xie, Qi Zhang, "[HousE: Knowledge Graph Embedding with Householder Parameterization](https://openreview.net/forum?id=olZAWuGOUz)", **ICML 2022** 
+
+Tianyu Pang, Huishuai Zhang, Di He, Yinpeng Dong, Hang Su, Wei Chen, Jun Zhu, Tie-Yan Liu, ""[Two Coupled Rejection Metrics Can Tell Adversarial Examples Apart](https://openreview.net/forum?id=olZAWuGOUz)", **CVPR 2022** 
+
+Bohang Zhang, Du Jiang, Di He, Liwei Wang, "[Boosting the Certified Robustness of L-infinity Distance Nets](https://openreview.net/forum?id=Q76Y7wkiji)", **ICLR 2022**
+
+Shengjie Luo, Shanda Li, Tianle Cai, Di He, Dinglan Peng, Shuxin Zheng, Guolin Ke, Liwei Wang, Tie-Yan Liu, "[Stable, Fast and Accurate: Kernelized Attention with Relative Positional Encoding](https://arxiv.org/abs/2106.12566)", **NeurIPS 2021**
+
+Chengxuan Ying, Tianle Cai, Shengjie Luo, Shuxin Zheng, Guolin Ke, Di He, Yanming Shen, Tie-Yan Liu, "[Do Transformers Really Perform Bad for Graph Representation?](https://arxiv.org/abs/2106.05234)",  NeurIPS 2021
 
 Shuqi Lu, Di He, Chenyan Xiong, Guolin Ke, Waleed Malik, Zhicheng Dou, Paul Bennett, Tie-Yan Liu, Arnold Overwijk, "[Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder](https://arxiv.org/abs/2102.09206)", **EMNLP 2021**
 
