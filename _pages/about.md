@@ -69,6 +69,12 @@ Past supervised undergraduates
 
 [Kai Yang](https://scholar.google.com.hk/citations?user=GODkQEkAAAAJ&hl=en) (UMich, 2025)
 
+[Sijie Li](https://scholar.google.com/citations?user=DH-70NAAAAAJ&hl=en) (CMU, 2026)
+
+[Yihan Geng](https://yihan04.github.io/) (Berkeley, 2026)
+
+[Xinyue Ai](https://scholar.google.com/citations?user=KogjUYwAAAAJ&hl=zh-CN) (Upenn, 2026)
+
 Other Publications ([Full List](https://scholar.google.com/citations?hl=zh-CN&user=orVoz4IAAAAJ&view_op=list_works&sortby=pubdate))
 =====
 
